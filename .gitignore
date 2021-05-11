@@ -3,3 +3,5 @@ __pycache__/
 89/
 satellite_tiles/
 data/
+.ipynb_checkpoints/
+tile_scraper.py
